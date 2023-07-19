@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://sterooz.github.io/Projeto-Rocketseat)
+- [Acesse o projeto finalizado, online](https://sterooz.github.io/Projeto-Rocketseat/)
 
 ## 🔖 Layout
 
